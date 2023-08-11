@@ -1,6 +1,7 @@
 # Numerical-Analysis-Methods-Calculator
 
  This Numerical Analysis Methods Calculator can perform the following methods:
+ 
 -Newton-Raphson Method
 
 -Gregory Newton
