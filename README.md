@@ -16,4 +16,4 @@
 -hesaplaAyrikFark: Discrete Difference Calculator Method (calculates the discrete difference between the values of a function at two consecutive points and stores them in a 2D matrix)
 
 
-This is in fact a course project for "Numerical Analysis" course in Yıldız Technical University. I am not in this university, I just heard about this project from a friend and tried to complete it myself as well.
+#### This is in fact a course project for "Numerical Analysis" course in Yıldız Technical University. I am not in this university, I just heard about this project from a friend and tried to complete it myself as well.
