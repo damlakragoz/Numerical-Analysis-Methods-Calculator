@@ -2,8 +2,11 @@
 
 #### This Numerical Analysis Methods Calculator can perform the following methods:
 -Newton-Raphson Method
+
 -Gregory Newton
+
 -Trapezoidal Method
+
 -Simpson's Method
 
 #### With the help of the following helper methods:
