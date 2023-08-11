@@ -2,9 +2,13 @@
 
 #### This Numerical Analysis Methods Calculator can perform the following methods:
 -Newton-Raphson Method
+
 -Gregory Newton
+
 -Trapezoidal Method
+
 -Simpson's Method
+
 
 #### With the help of the following helper methods:
 -polinomAl: Polynomial Input Taker (forms the polynomial by storing the coefficient and the exponent of each term respectively in a 2D array)
