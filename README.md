@@ -11,7 +11,8 @@
 -Simpson's Method
 
 
-#### With the help of the following helper methods:
+
+With the help of the following helper methods:
 -polinomAl: Polynomial Input Taker (forms the polynomial by storing the coefficient and the exponent of each term respectively in a 2D array)
 
 -türevF: Derivative Calculator for Polynomials 
